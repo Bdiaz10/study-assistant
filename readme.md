@@ -8,6 +8,9 @@ Study Assistant uses its own searching, indexing, and crawling capabilities to k
 
 The repository contains the backend service code.
 
+# Project Architecture and Demo
+https://docs.google.com/presentation/d/1Yx5dY6-jJOUkMNA0pBpm7y12HsOREfCRpGJJZPn49Z8/edit?usp=sharing 
+
 ## Running locally via Docker
 
 1. Install [Docker](https://docs.docker.com/engine/install/) for your platform first, make sure you have [Docker Compose](https://docs.docker.com/compose/install/) as well
